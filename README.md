@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋, I'm Xinglin.
+- 🔭 I’m currently working on Ruby on rail projects
+- 🌱 I’m currently learning Frond-end and Back-end
+- 🤔 I’m looking for help with web development
+- 📫 How to reach me: lixinglin0829@gmail.com
 
 <!--
 **xinglin2016/xinglin2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
