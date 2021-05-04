@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Xinglin.
 - 🔭 I’m currently working on Ruby on rail projects
 - 🌱 I’m currently learning Frond-end and Back-end
-- 🤔 I’m looking for help with web development
+- 🤔 I’m looking for contribute to web development projects
 - 📫 How to reach me: lixinglin0829@gmail.com
 
 <!--
