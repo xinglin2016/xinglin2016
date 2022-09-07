@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Xinglin.
-- 🔭 I’m currently working on Ruby on rail and React projects
+- 🔭 I have experiences in Ruby on rail and React projects
 - 🌱 I’m keeping learning Frond-end and Back-end knowledge
-- 🤔 I’m looking for contributing to web development projects
+- 🤔 I’m currently working on selenium project.
 - 📫 How to reach me: lixinglin0829@gmail.com
 
 <!--
